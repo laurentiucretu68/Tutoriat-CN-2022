@@ -1,10 +1,10 @@
 # Tutoriat-CN-2022
 **Repository destinat Tutoriatului de Calcul Numeric**
 
-*Universitatea din București*
-*Facultatea de Matematică și Informatică*
-*Domeniul Calculatoare și Tehnologia Informației*
-*Anul 1, Semestrul 2*
+*Universitatea din București* <br/>
+*Facultatea de Matematică și Informatică* <br/>
+*Domeniul Calculatoare și Tehnologia Informației* <br/>
+*Anul 1, Semestrul 2* <br/>
 
 ## Teme abordate:
 1. Introducere în Python
