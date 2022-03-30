@@ -40,6 +40,7 @@ plt.plot(x, y, label= 'f(x)', marker= 'x')
 plt.show()
 ```
 ![](img/Figure_1.png)
+
 	*Câteva tipuri de markers:*
 	![](img/markers.png)
 	
@@ -54,7 +55,9 @@ Tipuri diferite de linie
 	plt.show()
 	```
 	![](img/Figure_2.png)
+	
 	*Tipuri de linii:*
+	
 	![](img/linestyle.png)
 	
 <br/>
