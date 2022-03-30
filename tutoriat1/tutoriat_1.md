@@ -371,7 +371,6 @@ def functie(param = 'Valoare'):
 functie('Test') # va afisa Test
 functie()
 ```
-<<<<<<< HEAD
 
 <br/>
 
@@ -458,5 +457,3 @@ for i in range(0, rows):
 5 5 
 """
 ```
-=======
->>>>>>> d261710 (Update tutoriat_1.md)
